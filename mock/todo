@@ -1,0 +1,20 @@
+todo list: list 
+description: string
+date: string 
+item index: integer
+
+0. print the menu
+- display the different choices
+- take user input for which choice they want to perform
+1. print todo list
+- display all tasks
+2. add 
+- add a new task
+    - collect description 
+    - collect date
+3. remove
+- delete task from list
+4. check off
+- adding the word done after the task
+5. exit
+- quit the program
